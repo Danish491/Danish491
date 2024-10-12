@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">I'm a Top-Rated UX/UI Designer on Upwork with over 6 years of experience in Figma & Responsive Web & App Designs</h3>
+<h3 align="center">I'm a Top-Rated UX/UI Designer on Upwork with over 6 years of experience in Figma Web & App Designs</h3>
 
 ###
  ![34e69eb61a7bd8dea1c957a8b82605a7](https://github.com/user-attachments/assets/1d8c92c1-378a-4bca-95e8-5ab45bfbcfd4)
