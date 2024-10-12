@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Ali</h1>
-<h3 align="center">I'm a Top-Rated UX/UI Designer on Upwork with over 6 years of experience in Figma Web & App Designs</h3>
+<h3 align="center"> Top-Rated UX/UI Designer on Upwork with over 6 years of experience in Figma Web & App Designs</h3>
 
 ###
 
