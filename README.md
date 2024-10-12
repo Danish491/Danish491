@@ -5,7 +5,7 @@
 
  <img align="right" height="300" src="https://github.com/user-attachments/assets/1d8c92c1-378a-4bca-95e8-5ab45bfbcfd4" alt="34e69eb61a7bd8dea1c957a8b82605a7">
 
-- 🔭 I’m currently working on [CAT Tool](https://www.smartcat.com/)
+- 🔭 I’m currently working on [CAT Tool Project](https://www.smartcat.com/)
 
 - 🌱 I’m currently learning **AI**
 
