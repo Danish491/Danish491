@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Danish</h1>
+<h1 align="center">Hi 👋, I'm Danish Ali</h1>
 <h3 align="center">I'm a Top-Rated UX/UI Designer on Upwork with over 6 years of experience in Figma Web & App Designs</h3>
 
 ###
- ![34e69eb61a7bd8dea1c957a8b82605a7](https://github.com/user-attachments/assets/1d8c92c1-378a-4bca-95e8-5ab45bfbcfd4)
 
-###
+ <img align="right" height="300" src="https://github.com/user-attachments/assets/1d8c92c1-378a-4bca-95e8-5ab45bfbcfd4" alt="34e69eb61a7bd8dea1c957a8b82605a7">
+
 - 🔭 I’m currently working on [CAT Tool](https://www.smartcat.com/)
 
 - 🌱 I’m currently learning **AI**
